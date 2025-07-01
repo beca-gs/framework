@@ -1,5 +1,6 @@
 <?php
 include '../app/libraries/Rota.php';
+include '../app/Libraries/Controllers.php';
 ?>
 <!DOCTYPE html>
 <html lang="pt-br">
